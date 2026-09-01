@@ -1,0 +1,6 @@
+{
+  "name": "The Archers 2",
+  "description": "Stickman ragdoll physics archery game with single player campaign, boss battles, equipment upgrades, and local 2-player mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
